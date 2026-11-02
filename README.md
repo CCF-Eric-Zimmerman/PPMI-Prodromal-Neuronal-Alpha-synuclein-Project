@@ -12,7 +12,7 @@ Table of Contents
 
 The purpose of this document is to provide guidance to assist a third-party researcher in understanding the organization and presentation of the statistical analysis code included in the Zenodo folder [link].
 
-The shared code was created to perform analyses for the published article [title and link to article].  This code was created to analyze data accessed from the PPMI database (RRID:SCR_006431) on May 11, 2026. As the PPMI database is always evolving, it is possible that the code may not work if the database has changed since the date the code was created. 
+The shared code was created to perform analyses for the published article ["Cognitive Performance in Prodromal Neuronal α‑Synuclein Disease" and link to article].  This code was created to analyze data accessed from the PPMI database (RRID:SCR_006431) on May 11, 2026. As the PPMI database is always evolving, it is possible that the code may not work if the database has changed since the date the code was created. 
 
 Analytic datasets are not included in the submission.  Researchers can request access to PPMI data at the PPMI Study website (https://www.ppmi-info.org/access-data-specimens/download-data). 
 
