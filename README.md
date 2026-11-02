@@ -10,9 +10,9 @@ Table of Contents
  
 ## 1.Introduction
 
-The purpose of this document is to provide guidance to assist a third-party researcher in understanding the organization and presentation of the statistical analysis code included in the Zenodo folder [link].
+The purpose of this document is to provide guidance to assist a third-party researcher in understanding the organization and presentation of the statistical analysis code.
 
-The shared code was created to perform analyses for the published article ["Cognitive Performance in Prodromal Neuronal α‑Synuclein Disease" and link to article].  This code was created to analyze data accessed from the PPMI database (RRID:SCR_006431) on May 11, 2026. As the PPMI database is always evolving, it is possible that the code may not work if the database has changed since the date the code was created. 
+The shared code was created to perform analyses for the article "Cognitive Performance in Prodromal Neuronal α‑Synuclein Disease".  This code was created to analyze data accessed from the PPMI database (RRID:SCR_006431) on May 11, 2026. As the PPMI database is always evolving, it is possible that the code may not work if the database has changed since the date the code was created. 
 
 Analytic datasets are not included in the submission.  Researchers can request access to PPMI data at the PPMI Study website (https://www.ppmi-info.org/access-data-specimens/download-data). 
 
@@ -27,11 +27,11 @@ The following files are included with the submission:
 ### 3.1 “PPMI Prodromal Import and Analysis.Rmd”
 This imports the datasets, readies them for analysis, performs the analysis and creates summary tables and figures.  As an RMarkdown file, this file can be run to create an .html file (or .docx or .pdf) summarizing the analysis. 
 
-The script requires the following datasets:
+The script requires the following dataset:
 
 •	PPMI curated internal data cut (example: “PPMI_Curated_Data_Cut_INTERNAL_YearMonthDay.xlsx”)
 
-Cognitive assessments for each of:
+The script also requires cognitive assessment datasets for each of:
 
 •	Benton Judgement of Line Orientation (example: “Benton_Judgement_of_Line_Orientation_DayMonthYear.csv”)  
 •	Clock Drawing  
