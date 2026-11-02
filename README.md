@@ -22,9 +22,9 @@ The shared code was written using RStudio 2026.10.1, R version 4.6.1.
 ## 3.	File Instructions 
 The following files are included with the submission:
 
-•	“PPMI Prodromal Import Analysis.Rmd” (11/2/2026)
+•	“PPMI Prodromal Import and Analysis.Rmd” (11/2/2026)
 
-### 3.1 “PPMI Prodromal Import Analysis.Rmd”
+### 3.1 “PPMI Prodromal Import and Analysis.Rmd”
 This imports the datasets, readies them for analysis, performs the analysis and creates summary tables and figures.  As an RMarkdown file, this file can be run to create an .html file (or .docx or .pdf) summarizing the analysis. 
 
 The script requires the following datasets:
