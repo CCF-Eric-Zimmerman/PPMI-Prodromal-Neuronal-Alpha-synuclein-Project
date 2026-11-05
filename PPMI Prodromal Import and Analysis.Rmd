@@ -1173,13 +1173,6 @@ for(i in names(group_trend_results$plots)){
 }
 ```
 
-```{r}
-group_moca_trend_results = trend_model_fun(
-  ppmi_use_moca_trends,
-  "moca"
-)
-```
-
 # Trend over time (stages)
 
 ```{r}
